@@ -19,6 +19,10 @@ f=input("Enter the second number: ")
 multiply=float(e)*float(f)
 print(multiply)
 
+#some other practice in the code
+print("Please Enter your name again")
+a="Any name that you can imegin"
+
 
 
 
