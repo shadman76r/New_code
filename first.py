@@ -11,6 +11,15 @@ d=input("Please Enter the another number: ")
 sum=int(c)+int(d)
 print(sum)
 
+#multiply
+
+print("Now this is for multiply")
+e=input("Enter the first number: ")
+f=input("Enter the second number: ")
+multiply=float(e)*float(f)
+print(multiply)
+
+
 
 
 
