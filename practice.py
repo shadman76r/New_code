@@ -117,5 +117,24 @@ print(e.upper())
 t="help"
 print(t.lower())
 
+#23
+
+if b>a:
+    print("b is greater then a")
+else:
+    print("b is not grater then a")
+
+#24
+
+def m_name():
+    return True
+if m_name():
+    print("yes")
+else:
+    print("no")
+
+
+#25
+
 
 
