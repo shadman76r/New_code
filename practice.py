@@ -11,4 +11,16 @@ if 5>2:
     print("Five is greater then Two!")
 #4
 x=5
-y="any name"    
+y="any name"
+
+#5
+x=5
+y="name of any string"
+print(x)
+print(y)
+
+#6 this is for type casting
+x=str(3)
+y=int(3)
+
+#7
