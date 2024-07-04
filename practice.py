@@ -24,3 +24,23 @@ x=str(3)
 y=int(3)
 
 #7
+
+x=5
+y="name of the string"
+print(int(x))
+print(str(y))
+
+#8 this is for multiple function
+
+x, y, z= "name", "name" ,"name"
+print(x)
+print(y)
+print(z)
+
+#9
+
+x=y=z="name"
+print(x)
+print(y)
+print(z)
+
