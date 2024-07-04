@@ -65,5 +65,57 @@ y="name of the string"
 
 print(x+y)
 
+#13
+x="any name"
+def name():
+    print("any name"+x)
+name()
+
+#14
+x="name"
+def new_name():
+    x="name_my"
+    print("name"+x)
+new_name()
+print("name"+x)
+
+#15 this part is for array
+
+b="hello"
+print(b[1])
+
+#16
+
+for x in "name":
+    print(x)
+
+#17 this is string length
+
+z="name"
+print(len(z))
+
+#18 slicing
+
+y="hello, world!"
+print(b[2:5])
+
+#19
+
+c="hello,name!"
+print(c[2:5])
+
+#20
+d="name is the name"
+print(d[-5 : -2])
+
+#21
+e="name is the name"
+print(e.upper())
+
+#22
+
+t="help"
+print(t.lower())
+
 
 
