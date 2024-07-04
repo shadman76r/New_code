@@ -44,3 +44,26 @@ print(x)
 print(y)
 print(z)
 
+#10
+
+name=["any name", "any name", "any name or string"]
+x,y,z=name
+print(x)
+print(y)
+print(z)
+
+#11
+
+x=5
+y=10
+print(x+y)
+
+#12
+
+x=5
+y="name of the string"
+
+print(x+y)
+
+
+
