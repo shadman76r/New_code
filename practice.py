@@ -149,3 +149,5 @@ elif i==j:
 
 
 print("m")
+
+print ("do not knoe what to do so do it what i need to do in my life and i must do this without any duth")
