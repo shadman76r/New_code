@@ -151,3 +151,5 @@ elif i==j:
 print("m")
 
 print ("do not knoe what to do so do it what i need to do in my life and i must do this without any duth")
+
+print("i give my AI exam not so good at all so be prepare for the final exam beacuse in the final exam i must make a cut to achive A or A+ so be prepare")
