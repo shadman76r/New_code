@@ -153,3 +153,6 @@ print("m")
 print ("do not knoe what to do so do it what i need to do in my life and i must do this without any duth")
 
 print("i give my AI exam not so good at all so be prepare for the final exam beacuse in the final exam i must make a cut to achive A or A+ so be prepare")
+
+print("The main object to push daily in the git hub to maintain the flow of my work and make a mark daily in time so that i can get some inportant things from the pushing ")
+print("git hub is the only place that i can represnt myslef as a good developer and make some improvement by my onw so that i do not fall behind as a deeveloper and as a person also to maintain the flow it is important any how")
