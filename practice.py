@@ -147,7 +147,7 @@ if i>j:
 elif i==j:
     print("85 is equal to 33")   
 
-
+# Those are not impotant so skip that part any how
 print("m")
 
 print ("do not knoe what to do so do it what i need to do in my life and i must do this without any duth")
